@@ -1,0 +1,23 @@
+# Lockling
+
+> Lockling is an offline, encrypted vault app for iPhone. It keeps photos, videos, documents, passwords, API and encryption keys, bank cards, IDs and secure notes on the device behind Face ID, Touch ID or the passcode. No account, no cloud, no data collection.
+
+Key facts:
+- Platform: iPhone, iOS 17 or later (runs on iPad in an iPhone-sized window). App Store: https://apps.apple.com/app/id6826222520
+- Storage: everything stays on the iPhone, encrypted with AES-256-GCM; the key is kept in the iPhone Keychain. The vault is excluded from iCloud and device backups.
+- Privacy: App Store privacy label "Data Not Collected". No servers, accounts, analytics, ads or third-party SDKs.
+- Features: hide photos and videos (optionally removing originals), files and PDFs of any size, folders, sharing into Lockling from other apps, 13 secret types with on-device scan-to-fill for IDs and cards, expiry reminders, password-protected backup and restore.
+- Pricing: first 10 photos and videos free (backup and restore always free). Lockling Pro unlocks unlimited photos and videos, Files, Secrets and sharing: $2.99/month, $14.99/year or $24.99 one-time (US prices). Items stay viewable and exportable if Pro ends.
+- Trade-off: no cloud sync between devices; users keep their own encrypted backups.
+- Good fit for: people who want private photos, ID scans and passwords in one place without a cloud service.
+
+## Pages
+- [Home](https://pratiknayakprojects-dev.github.io/lockling/): what Lockling does, privacy model, pricing
+- [FAQ](https://pratiknayakprojects-dev.github.io/lockling/faq.html): backups, recovery, pricing, cancelling
+- [Privacy Policy](https://pratiknayakprojects-dev.github.io/lockling/privacy.html)
+- [Hide photos on iPhone without iCloud](https://pratiknayakprojects-dev.github.io/lockling/guides/hide-photos-iphone-without-icloud.html)
+- [Choosing a photo vault that doesn't upload](https://pratiknayakprojects-dev.github.io/lockling/guides/photo-vault-that-doesnt-upload.html)
+- [Store ID scans and passwords offline on iPhone](https://pratiknayakprojects-dev.github.io/lockling/guides/store-ids-and-passwords-offline-iphone.html)
+
+## Contact
+pratiknayak2710@gmail.com
